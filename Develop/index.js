@@ -164,6 +164,8 @@ function writeToFile(fileName, data) {
     })
 }
 
+const createReadMe = util.promisify(writeToFile);
+
 // TODO: Create a function to initialize app
 function init() {}
 
