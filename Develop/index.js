@@ -166,7 +166,19 @@ function writeToFile(fileName, data) {
 
 const createReadMe = util.promisify(writeToFile);
 
-// TODO: Create a function to initialize app
-function init() {}
+async function init() {
+    try {
+        const userAnswers = await inquirer.prompt(questions);
+        console.log('Thank you! The current data is being processed into your README.md: ', userAnswers);
+
+        const myMarkdown = generateMarkdown(userAnswers);
+        console.log(myMarkdown);
+
+        await createReadMe('README1.md', myMarkdown);
+      
+    }   catch (error) {
+            console.log('Sorry there was an error.' + error);
+    }
+};
 
 init();
