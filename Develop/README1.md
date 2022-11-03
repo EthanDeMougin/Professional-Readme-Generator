@@ -1,10 +1,12 @@
-# Hello World
+# Project 9 video
 ## Description
-Everything
+The video for project 9 
 ![badge](https://img.shields.io/badge/license--brightorange)
 You can access more badges and their purposes at [shields.io](https://shields.io)
 ## Table of Contents
   * [Usage](#usage)
+  * [Contribution](#contribution)
+  * [Testing](#testing)
   * [Questions](#questions)
   * [License](#license)
     
@@ -12,16 +14,24 @@ You can access more badges and their purposes at [shields.io](https://shields.io
       
 ## Usage
   _Instructions for use:_
-  Just be happy
+  go to video software
+      
+## Contribution
+  _If you would like to contribute, please adhere to these guidelines:_
+  clone and credit
+      
+## Testing
+  _Instructions for testing application:_
+  eh
       
 ## Questions
       
   _For further questions:_
-  Email me at BillGravy@gmail.com
+  ethandmoeugin@gmail.com 111-111-1111
   
   _Contact Info:_
-  GitHub: [BillGravy](https://github.com/BillGravy)
-  Email: [BillGravy@gmail.com](mailto:BillGravy@gmail.com)
+  GitHub: [ethandemougin](https://github.com/ethandemougin)
+  Email: [ethandmeougin@gmail.com](mailto:ethandmeougin@gmail.com)
     
 ## License
       
